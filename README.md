@@ -68,7 +68,7 @@ Hi, I'm Izzeldeen Atari, a Computer Science student at AGH University of Science
 ## Projects
 
 ### Java Projects
-1. **Complex Numbers Calculator**
+1. **Complex Numbers Calculator** https://github.com/ezz65/Complex-Numbers-Calculator
    - **Description:** A Java application for performing operations on complex numbers.
    - **Technologies Used:** Java
 
