@@ -88,7 +88,7 @@ Hi, I'm Izzeldeen Atari, a Computer Science student at AGH University of Science
    - **Description:** A Java application for performing statistical analysis on datasets.
    - **Technologies Used:** Java
 
-6. **Cramer's Rule Solver**
+6. **Cramer's Rule Solver** https://github.com/ezz65/Cramer-s-Rule-Solver
    - **Description:** A Java program to solve systems of linear equations using Cramer's rule.
    - **Technologies Used:** Java
 
