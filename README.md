@@ -76,7 +76,7 @@ Hi, I'm Izzeldeen Atari, a Computer Science student at AGH University of Science
    - **Description:** A Java-based system for managing banking operations.
    - **Technologies Used:** Java
 
-3. **Library Management System**
+3. **Library Management System** https://github.com/ezz65/Library-Management-System/tree/main
    - **Description:** A Java application to manage a library's book inventory.
    - **Technologies Used:** Java
 
