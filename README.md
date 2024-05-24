@@ -72,7 +72,7 @@ Hi, I'm Izzeldeen Atari, a Computer Science student at AGH University of Science
    - **Description:** A Java application for performing operations on complex numbers.
    - **Technologies Used:** Java
 
-2. **Bank Management System**
+2. **Bank Management System** https://github.com/ezz65/BankManagementSystem.git
    - **Description:** A Java-based system for managing banking operations.
    - **Technologies Used:** Java
 
