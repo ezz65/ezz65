@@ -60,10 +60,7 @@ Hi, I'm Izzeldeen Atari, a Computer Science student at AGH University of Science
 - Machine Learning and AI
 - Project Management
 
-## Certificates
 
-- **Level 3 Certificate in English for Academic Purposes** - Lancashire College of Further Education, UK
-- **Google Ads Specialist** - Via Google
 
 ## Projects
 
