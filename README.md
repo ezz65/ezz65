@@ -84,7 +84,7 @@ Hi, I'm Izzeldeen Atari, a Computer Science student at AGH University of Science
    - **Description:** A Java application to read and parse INI configuration files.
    - **Technologies Used:** Java
 
-5. **Statistical Data Analysis**
+5. **Statistical Data Analysis** https://github.com/ezz65/Statistical-Data-Analysis
    - **Description:** A Java application for performing statistical analysis on datasets.
    - **Technologies Used:** Java
 
