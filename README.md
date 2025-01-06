@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+
 # Welcome to My GitHub Profile
 
 Hi, I'm Izzeldeen Atari, a Computer Science student at AGH University of Science and Technology in Krakow, Poland, set to graduate in January 2025. I am passionate about technology and have been working on various projects during my studies, which I will be sharing here.
